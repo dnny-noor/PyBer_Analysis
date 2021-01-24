@@ -21,10 +21,10 @@ The analysis of the ride-sharing fares from 01-01-2019 to 05-08-2019 show that:
     - With urban city types having the highest total with $39,854.38.
 - Averages:
     - Rural city types showed the hightest averages for both per ride and per driver with $34.62 and $55.49, respectively.       
-![Resources/pyber_summary.PNG](Resources/pyber_summary.PNG)
+![Resources/pyber_summary.png](Resources/pyber_summary.png)
 
-## Challenge Summary
-![analysis/Fig8.PNG](analysis/Fig8.PNG)
+## Challenge Summary  
+![analysis/Fig8.png](analysis/Fig8.png)
 The figure shows that urban city types have dominated the other city types through first quarter of the 2019 year.
 - This disparity between the city types can account for the population size in higher densed cities and therefore would have more riders and available drivers.
 - Urban city types tend to utilize ride-sharing more for convience and like to avoid hassles such as parking and vehicle maintenance.
